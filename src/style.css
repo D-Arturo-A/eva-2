@@ -1,0 +1,32 @@
+
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 0%;
+  padding: 20px;
+}
+nav > ul > li {
+  margin: auto;
+  display: block;
+}
+ header {
+   width:100%;
+  height: auto;
+  background-color: #00FFFF;
+  justify-content: space-between;
+  align-items: top;
+  position: fixed;
+  top: 0;
+  cursor: pointer;
+}
+.technova{
+  text-align: center;
+}
+h1{ 
+  text alig: center
+}
+div { 
+  top: 100px;
+}
